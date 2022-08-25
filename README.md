@@ -3,11 +3,6 @@
 ### Overview
 This is a smaller part of the full project called Aution Only. Auction Only is an online system where sellers and bidders meet. The sellers publish their product for the bidder to bid. The one with the highest bidding price owns the product.
 
-For the full solution, visit:
-- Front end: https://github.com/NickMark028/auction-fe
-- Back end: https://github.com/NickMark028/auction-be
-- Database: https://github.com/NickMark028/auction-db
-
 ### Prerequisite
 - MySQL v8.0.22 or higher.
 
